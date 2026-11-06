@@ -1,0 +1,6 @@
+{
+  "name": "MANI PALACE | Premium Real Estate & Property Management",
+  "description": "Bilingual luxury real estate and property management platform for MANI PALACE (ΜΑΝΗ ΠΑΛΛΑΣ). Properties across Greece and prime investment advisory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
